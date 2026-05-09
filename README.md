@@ -4,6 +4,7 @@ Documentación org-level del estudio. Contenido **stack-agnóstico**: lo especí
 
 ## Índice
 
+- **[`onboarding.md`](./onboarding.md)** — guía completa de onboarding para devs nuevos: toolchain, acceso a la org, día 1, tu primer task (proyecto existente o nuevo), workflow del día a día, cómo darle contexto del atelier a tu asistente de IA.
 - [`starter-templates.md`](./starter-templates.md) — guía completa de los starter templates del atelier (`template-jarvis-base`, `template-jarvis-web`, `template-jarvis-api`): qué incluyen, cómo elegir, cómo extender, cuándo NO usar template.
 
 ## Cómo contribuir a estos docs
